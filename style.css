@@ -143,10 +143,6 @@ p{
     color: var(--Dark-grayish-blue);
     line-height: 1.5rem;
 }
-h3:hover{
-    color: var(--Soft-orange);
-    cursor: pointer;
-}
 
 button{
     width: 50%;
@@ -252,6 +248,10 @@ div.topic_content_box span{
 div.topic_content_box h2{
     font-size: 1.2em;
     font-weight: 800;
+}
+h2:hover{
+    color: var(--Soft-red);
+    cursor: pointer;
 }
 
 footer{
