@@ -143,6 +143,10 @@ p{
     color: var(--Dark-grayish-blue);
     line-height: 1.5rem;
 }
+h3 a:hover{
+    color: var(--Soft-orange);
+    cursor: pointer;
+}
 
 button{
     width: 50%;
